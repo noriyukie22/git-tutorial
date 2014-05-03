@@ -1,4 +1,4 @@
-Git チュートリアル tutrial
+Git tutrial
 
 - featureA
 - fixB
